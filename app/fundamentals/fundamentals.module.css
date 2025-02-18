@@ -5,8 +5,10 @@
     align-items: center;
     padding: 6rem;
     min-height: 100vh;
+    color:burlywood;
   }
 
   .header {
     margin-bottom: 20px;
+    color: brown;
   }

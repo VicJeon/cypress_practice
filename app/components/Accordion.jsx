@@ -5,6 +5,7 @@ import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
+
 export default function ItemsAccordion({ items }) {
   return (
     <div style={{ maxWidth: '70vw', minWidth: '50vw' }}>
